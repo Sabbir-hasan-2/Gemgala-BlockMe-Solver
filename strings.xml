@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BlockMe Solver</string>
+    <string name="accessibility_description">Reads the visible BlockMe board and performs drag gestures when Auto Play is enabled.</string>
+</resources>
